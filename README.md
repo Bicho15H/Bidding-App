@@ -1,6 +1,6 @@
-#Bidding APP
+# Bidding APP
 
-###How to run:
+### How to run:
 ```
 javac Run.java
 java Run
